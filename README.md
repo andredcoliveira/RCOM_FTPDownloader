@@ -1,5 +1,5 @@
 # RCOM_FTPDownloader
-Development of a download application in C, using FTP, which targets a specific file given its URL as an argument.
+Development of a download application in C, using FTP (port 21), which targets a specific file given its URL as an argument.
 
 #### Usage
 ```bash
